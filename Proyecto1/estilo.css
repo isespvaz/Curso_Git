@@ -3,3 +3,8 @@ body{
     margin:  20px;
     padding: 20px;
 }
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color:blue;
+    font-size: large;
+}
